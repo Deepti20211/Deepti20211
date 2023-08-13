@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti20211&label=Profile%20views&color=0e75b6&style=flat" alt="deepti20211" /> </p>
 
-- 🌱 I’m currently learning **DSA,MYSQL**
+- 🌱 I’m currently learning **DSA,SQL**
 
 - 📫 How to reach me **dipti2018793@gmail.com**
 
