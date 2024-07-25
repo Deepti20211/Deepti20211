@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dipti2018793@gmail.com**
 
-- ⚡ Fun fact **I stress a lot over illogical facts.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
