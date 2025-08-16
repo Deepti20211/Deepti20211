@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dipti</h1>
-<h3 align="center">A passionate Junior year (third Year) student from India</h3>
+<h3 align="center">A Software developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti20211&label=Profile%20views&color=0e75b6&style=flat" alt="deepti20211" /> </p>
 
-- 🌱 I’m currently learning **DSA,MYSQL**
+-
 
 - 📫 How to reach me **dipti2018793@gmail.com**
 
